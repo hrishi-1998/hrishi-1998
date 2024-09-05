@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hrishi-1998
 - 👀 I’m interested in Data Engineering & Devops
 - 🌱 I’m currently learning Snowflake, Docker & Kubernetes.
-- 💞️ I’m looking to collaborate on Real-time Fraud Detection and Analytics Pipeline.
+- 💞️ I’m looking to collaborate on Data Engineering Projects.
 - 📫 How to reach me 
 Phone: +91 9004041292 | Email: hrishikeshghole@gmail.com | LinkedIn: www.linkedin.com/in/hrishikesh-ghole
 
