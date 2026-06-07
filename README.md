@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hrishi-1998
-- 👀 I’m interested in Data Engineering & Devops
+- 👋 Hi, I’m Hrishikesh
+- 👀 I’ve 3 YOE as Data Engineer & Currently working at a startup as DE.
 - 🌱 I’m currently learning Snowflake, Docker & Kubernetes.
 - 💞️ I’m looking to collaborate on Data Engineering Projects.
 - 📫 How to reach me 
